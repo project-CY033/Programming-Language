@@ -1,4 +1,16 @@
+# Download the `mysql-installer-community`  If you don't have
+- ### [Click 🔗](https://dev.mysql.com/downloads/installer/)
 
+
+
+
+
+
+
+---
+---
+---
+---
 ## 1) Create  database 
 - ##     syntax---> create database database_name;
 - ##     eg musharraf (database) 
