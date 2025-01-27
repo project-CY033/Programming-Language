@@ -2,7 +2,12 @@
 - ### [Click 🔗](https://dev.mysql.com/downloads/installer/)
 
 
-
+## Steps 
+- ### Click the
+- ### Select the latest version
+- ### Select oprating system
+- ### accoudaing to your System 
+- ### Click to Download
 
 
 
